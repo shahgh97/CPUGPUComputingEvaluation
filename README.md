@@ -1,5 +1,7 @@
 # CPU cores computing strength and GPU computing strength using Python
 Repository Name: CPUGPUComputingEvaluation
+https://colab.research.google.com/drive/17lYmgVtMKrjz4bulq8X536OGdKZfbbv0?hl=en
+https://colab.research.google.com/drive/17HAyborjWKTYrvAXPXNs8n0MSWIXfPmh
 ## (1) Objective:
 The objective of this project is to evaluate the CPU cores and GPU computing strengths in various scenarios using Python, considering different types of computational tasks.
 
